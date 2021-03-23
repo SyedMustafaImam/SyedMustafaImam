@@ -64,7 +64,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMustafaImam&layout=compact)](https://github.com/SyedMustafaImam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMustafaImam&layout=compactcount_private=true)](https://github.com/SyedMustafaImam/github-readme-stats)
 
 
 [website]: https://codeSTACKr.com
