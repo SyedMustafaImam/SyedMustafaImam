@@ -49,6 +49,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+### 📺 Youtube Blog Posts
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ➡️ [more blog posts...](https://mustafaimam.live/seyd-mustafa-imam-blog/)
 
 ---
