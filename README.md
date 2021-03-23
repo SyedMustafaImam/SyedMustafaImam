@@ -47,10 +47,8 @@
 ---
 
 ### 📕 Latest Blog Posts
-
-<!-- MustafaImam:START -->
-<!-- MustafaImam:END -->
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://mustafaimam.live/seyd-mustafa-imam-blog/)
 
 ---
