@@ -1,6 +1,6 @@
 ### Hi there, I'm Syed Mustafa Imam - [mustafaimam.live][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mustafaimam.live/)
+[![Website](https://img.shields.io/website?label=SMustafaImam.com&style=for-the-badge&url=https://i0.wp.com/mustafaimam.live/wp-content/uploads/2020/08/cropped-Logo-Syed-Mustafa-Imam.png?fit=909%2C337&ssl=1)](https://mustafaimam.live/)
 
 ## I'm a Son, Brother, Developer, and Teacher!!
 
@@ -46,20 +46,25 @@
 ---
 
 ### 📕 Latest Blog Posts
+- [Beginners Guide to Hackathon | HackMakers](https://mustafaimam.live/what-is-hackathon-guide/)
+- [Virtual Labs | ASME Innovation Challenge Winner.](https://mustafaimam.live/virtual-labs-asme-innovation-challenge-winner-syed-mustafa-imam/)
+- [Global AI Hackathon – Finalist – Team: Prediction Ctrl](https://mustafaimam.live/globalaihackathon-team-prediction-ctrl/)
+- [Artificial intelligence VS Machine learning](https://mustafaimam.live/artificial-intelligence-vs-machine-learning-ai-vs-ml/)
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://mustafaimam.live/seyd-mustafa-imam-blog/)
 
+---
 
 ### 📺 Youtube Blog Posts
 <!-- YOUTUBE:START -->
-- [DOOM Eternal Live Game Play](https://www.youtube.com/watch?v=rSyrshsnAh0)
 - [Prediction Ctrl | Global online AI Hackathon | BuildwithAI: Emergence 2020](https://www.youtube.com/watch?v=RwUVMNVht2g)
 - [Applications Of HoloLens In Mixed Reality | Microsoft HoloLens](https://www.youtube.com/watch?v=3N7eHTL5erc)
 - [UV Cleaning | Red Bull Basement University 2019  | Team-Sagluca](https://www.youtube.com/watch?v=gImuoAD_Ja4)
 - [Pakistan tour TVC](https://www.youtube.com/watch?v=1ELDqF2Cg28)
 <!-- YOUTUBE:END -->
 
-➡️ [more blog posts...](https://mustafaimam.live/seyd-mustafa-imam-blog/)
 
 ---
 
