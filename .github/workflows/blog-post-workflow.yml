@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: SyedMustafaImam/blog-post-workflow@master
         with:
           comment_tag_name: "MustafaImam"
           feed_list: "https://mustafaimam.live/seyd-mustafa-imam-blog/feed/"
