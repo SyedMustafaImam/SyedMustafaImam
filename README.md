@@ -49,10 +49,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginners Guide to Hackathon | HackMakers](https://mustafaimam.live/what-is-hackathon-guide/)
-- [Virtual Labs | ASME Innovation Challenge Winner.](https://mustafaimam.live/virtual-labs-asme-innovation-challenge-winner-syed-mustafa-imam/)
-- [Global AI Hackathon – Finalist – Team: Prediction Ctrl](https://mustafaimam.live/globalaihackathon-team-prediction-ctrl/)
-- [Artificial intelligence VS Machine learning](https://mustafaimam.live/artificial-intelligence-vs-machine-learning-ai-vs-ml/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://mustafaimam.live/seyd-mustafa-imam-blog/)
@@ -75,7 +71,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="SyedMustafaImam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
