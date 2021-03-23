@@ -61,7 +61,7 @@
 <img align="left" alt="SyedMustafaImam's GitHub Stats" src="https://github-readme-stats.SyedMustafaImam.vercel.app/api?username=SyedMustafaImam&show_icons=true&hide_border=true&count_private=true" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SyedMustafaImam=anuraghazra&layout=compact)](https://github.com/SyedMustafaImam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMustafaImam&layout=compact)](https://github.com/SyedMustafaImam/github-readme-stats)
 
 
 [website]: https://codeSTACKr.com
