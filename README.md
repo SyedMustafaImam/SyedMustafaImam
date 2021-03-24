@@ -79,6 +79,7 @@ I am also a highly creative and multi-talented Graphic Designer and Web Develope
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [DOOM Eternal Live Game Play](https://www.youtube.com/watch?v=rSyrshsnAh0)
 - [Prediction Ctrl | Global online AI Hackathon | BuildwithAI: Emergence 2020](https://www.youtube.com/watch?v=RwUVMNVht2g)
 - [Applications Of HoloLens In Mixed Reality | Microsoft HoloLens](https://www.youtube.com/watch?v=3N7eHTL5erc)
 - [UV Cleaning | Red Bull Basement University 2019  | Team-Sagluca](https://www.youtube.com/watch?v=gImuoAD_Ja4)
