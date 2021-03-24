@@ -1,8 +1,8 @@
-### Hi there, I'm Syed Mustafa Imam - [mustafaimam.live][website] 👋
+## Hi there, I'm Syed Mustafa Imam - [mustafaimam.live][website] 👋
 
 [![Website](https://img.shields.io/website?label=SMustafaImam.com&style=for-the-badge&url=https://i0.wp.com/mustafaimam.live/wp-content/uploads/2020/08/cropped-Logo-Syed-Mustafa-Imam.png?fit=909%2C337&ssl=1)](https://mustafaimam.live/)
 
-## I'm a Son, Brother, Developer, and Teacher!!
+### Want to know About Me?!
 
 - 🔭 I just launched my portfolio: [Computer Scientist, Researcher and Designer][website]!
 - 🌱 I’m currently learning everything 🤣
