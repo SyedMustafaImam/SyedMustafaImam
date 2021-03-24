@@ -77,7 +77,7 @@ I am also a highly creative and multi-talented Graphic Designer and Web Develope
 <hr>
 <br>
 
-### 📺 Youtube Blog Posts
+### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Prediction Ctrl | Global online AI Hackathon | BuildwithAI: Emergence 2020](https://www.youtube.com/watch?v=RwUVMNVht2g)
 - [Applications Of HoloLens In Mixed Reality | Microsoft HoloLens](https://www.youtube.com/watch?v=3N7eHTL5erc)
