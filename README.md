@@ -9,8 +9,24 @@
 - 👯 I’m looking to collaborate with other reaserchers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and design  
+<br>
+<hr>
+<br>
 
-### Connect with me:
+<details>
+   <summary>🤓 About Me</summary>
+I am currently enrolled in my 6th semester of Bachelors of Computer Science with CGPA 3.88 from SZABIST Karachi, Pakistan. I have also completed my Artificial Intelligence nano degree from Udacity and Deep Neural Network specialization from deeplearing.ai by Andrew Ng. Along with that, I am also studying Machine learning from Stanford University.
+
+Being an aspiring Computer Scientist, I am always ingeniously looking to solve real-world problems using Artificial Intelligence, IoT & Mixed Reality using Microsoft HoloLens. Recently I have participated in #BuildwithAI Global Hackaton by Hackmakers, in which I got 4th position among 75+ countries and 4,000+ total competitors around the world.
+
+I am also a highly creative and multi-talented Graphic Designer and Web Developer with vast experience in multimedia, marketing, and print design.
+  
+</details>
+<br>
+<hr>
+<br>
+
+### 🤙 Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -19,7 +35,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
+<br>
+<hr>
+<br>
 
 ### Languages and Tools:
 
@@ -40,10 +58,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
+<br>
+<hr>
+<br>
 
----
 
 ### 📕 Latest Blog Posts
 - [Beginners Guide to Hackathon | HackMakers](https://mustafaimam.live/what-is-hackathon-guide/)
@@ -55,7 +73,9 @@
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://mustafaimam.live/seyd-mustafa-imam-blog/)
 
----
+<br>
+<hr>
+<br>
 
 ### 📺 Youtube Blog Posts
 <!-- YOUTUBE:START -->
@@ -65,11 +85,11 @@
 - [Pakistan tour TVC](https://www.youtube.com/watch?v=1ELDqF2Cg28)
 <!-- YOUTUBE:END -->
 
+<br>
+<hr>
+<br>
 
----
-
-
-<summary>:zap: GitHub Stats</summary>
+### ⚡ GitHub Stats
 
 <!-- <img align="left" alt="SyedMustafaImam's GitHub Stats" src="https://github-readme-stats.SyedMustafaImam.vercel.app/api?username=SyedMustafaImam&show_icons=true&hide_border=true&count_private=true" /> -->
 
@@ -86,3 +106,8 @@
 [instagram]: https://www.instagram.com/mustafaimam.live/
 [facebook]: https://www.facebook.com/mustafaimam.live/
 [linkedin]: https://www.linkedin.com/in/syedmustafaimam/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
