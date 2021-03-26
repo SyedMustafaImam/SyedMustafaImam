@@ -64,10 +64,6 @@ I am also a highly creative and multi-talented Graphic Designer and Web Develope
 
 
 ### 📕 Latest Blog Posts
-- [Beginners Guide to Hackathon | HackMakers](https://mustafaimam.live/what-is-hackathon-guide/)
-- [Virtual Labs | ASME Innovation Challenge Winner.](https://mustafaimam.live/virtual-labs-asme-innovation-challenge-winner-syed-mustafa-imam/)
-- [Global AI Hackathon – Finalist – Team: Prediction Ctrl](https://mustafaimam.live/globalaihackathon-team-prediction-ctrl/)
-- [Artificial intelligence VS Machine learning](https://mustafaimam.live/artificial-intelligence-vs-machine-learning-ai-vs-ml/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Beginners Guide to Hackathon | HackMakers](https://mustafaimam.live/what-is-hackathon-guide/)
