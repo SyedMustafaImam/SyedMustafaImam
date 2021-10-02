@@ -15,7 +15,7 @@
 
 <details>
    <summary>🤓 About Me</summary>
-I am currently enrolled in my 6th semester of Bachelors of Computer Science with CGPA 3.88 from SZABIST Karachi, Pakistan. I have also completed my Artificial Intelligence nano degree from Udacity and Deep Neural Network specialization from deeplearing.ai by Andrew Ng. Along with that, I am also studying Machine learning from Stanford University.
+I am currently enrolled in my 7th semester of Bachelors of Computer Science with CGPA 3.9 from SZABIST Karachi, Pakistan. I have also completed my Artificial Intelligence nano degree from Udacity and Deep Neural Network specialization from deeplearing.ai by Andrew Ng. Along with that, I am also studying Machine learning from Stanford University.
 
 Being an aspiring Computer Scientist, I am always ingeniously looking to solve real-world problems using Artificial Intelligence, IoT & Mixed Reality using Microsoft HoloLens. Recently I have participated in #BuildwithAI Global Hackaton by Hackmakers, in which I got 4th position among 75+ countries and 4,000+ total competitors around the world.
 
@@ -109,7 +109,7 @@ I am also a highly creative and multi-talented Graphic Designer and Web Develope
 
 <!-- <img align="left" alt="SyedMustafaImam's GitHub Stats" src="https://github-readme-stats.SyedMustafaImam.vercel.app/api?username=SyedMustafaImam&show_icons=true&hide_border=true&count_private=true" /> -->
 
-[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedMustafaImam&count_private=true&hide=prs,issues,contribs)](https://github.com/SyedMustafaImam/github-readme-stats)
+[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedMustafaImam&count_private=true)](https://github.com/SyedMustafaImam/github-readme-stats)
 
 
 
