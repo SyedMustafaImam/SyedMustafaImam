@@ -1,6 +1,6 @@
 ## Hi there, I'm Syed Mustafa Imam - [syedmustafaimam.com][website] 👋
 
-[![Website](https://img.shields.io/website?label=SMustafaImam.com&style=for-the-badge&url=https://i0.wp.com/mustafaimam.live/wp-content/uploads/2020/08/cropped-Logo-Syed-Mustafa-Imam.png?fit=909%2C337&ssl=1)](https://syedmustafaimam.com/)
+[![Website](https://img.shields.io/website?label=SMustafaImam.com&style=for-the-badge&url=https://i0.wp.com/syedmustafaimam.com/wp-content/uploads/2020/08/cropped-Logo-Syed-Mustafa-Imam.png?fit=909%2C337&ssl=1)](https://syedmustafaimam.com/)
 
 ### Want to know About Me?!
 
