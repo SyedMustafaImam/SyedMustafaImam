@@ -7,7 +7,7 @@
 - 🔭 I just launched my portfolio: [Computer Scientist, Researcher and Designer][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other reaserchers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and design  
 <br>
 <hr>
@@ -15,7 +15,7 @@
 
 <details>
    <summary>🤓 About Me</summary>
-I am currently enrolled in my 7th semester of Bachelors of Computer Science with CGPA 3.9 from SZABIST Karachi, Pakistan. I have also completed my Artificial Intelligence nano degree from Udacity and Deep Neural Network specialization from deeplearing.ai by Andrew Ng. Along with that, I am also studying Machine learning from Stanford University.
+I am a Computer Science graduate with CGPA 3.9 from SZABIST Karachi, Pakistan. I have also completed my Artificial Intelligence nano degree from Udacity and Deep Neural Network specialization from deeplearing.ai by Andrew Ng. Along with that, I am also studying Machine learning from Stanford University.
 
 Being an aspiring Computer Scientist, I am always ingeniously looking to solve real-world problems using Artificial Intelligence, IoT & Mixed Reality using Microsoft HoloLens. Recently I have participated in #BuildwithAI Global Hackaton by Hackmakers, in which I got 4th position among 75+ countries and 4,000+ total competitors around the world.
 
