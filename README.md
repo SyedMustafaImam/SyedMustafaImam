@@ -81,10 +81,10 @@ In addition, I have experience in monitoring tools like checkMK, PRTG, Graphana,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginners Guide to Hackathon | HackMakers](https://mustafaimam.live/what-is-hackathon-guide/)
-- [ASME Innovation Challenge | Microsoft HoloLens | Project Winner.](https://mustafaimam.live/virtual-labs-asme-innovation-challenge-winner-syed-mustafa-imam/)
-- [Global AI Hackathon – Finalist – Team: Prediction Ctrl](https://mustafaimam.live/globalaihackathon-team-prediction-ctrl/)
-- [Artificial intelligence VS Machine learning](https://mustafaimam.live/artificial-intelligence-vs-machine-learning-ai-vs-ml/)
+- [Gen4Gen Webapplication](https://syedmustafaimam.com/gen4gen/)
+- [Online Erfa](https://syedmustafaimam.com/onlineerfa/)
+- [Smart Covid](https://syedmustafaimam.com/smart-covid/)
+- [Scalaplex](https://syedmustafaimam.com/scalaplex-web/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://syedmustafaimam.com/blog/)
 
