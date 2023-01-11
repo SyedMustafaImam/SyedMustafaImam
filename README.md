@@ -15,11 +15,11 @@
 
 <details>
    <summary>🤓 About Me</summary>
-I am a Computer Science graduate with CGPA 3.9 from SZABIST Karachi, Pakistan. I have also completed my Artificial Intelligence nano degree from Udacity and Deep Neural Network specialization from deeplearing.ai by Andrew Ng. Along with that, I am also studying Machine learning from Stanford University.
+As an aspiring DevOps Engineer with a Bachelor's degree in Computer Science and a strong academic record (3.89 CGPA - 🥈 silver medalist from SZABIST Karachi, Pakistan). I have a strong history of participation in various competitions and hackathons, I have also achieved 4th position in the #GlobalAI Hackathon by Hackmakers, among 75+ countries around the world. I was also awarded as the best innovator among the 13 countries in a competition organized by ASME, for an application for Microsoft hololens.
 
-Being an aspiring Computer Scientist, I am always ingeniously looking to solve real-world problems using Artificial Intelligence, IoT & Mixed Reality using Microsoft HoloLens. Recently I have participated in #BuildwithAI Global Hackaton by Hackmakers, in which I got 4th position among 75+ countries and 4,000+ total competitors around the world.
+I have a solid background in DevOps and cloud and on-premises infrastructure management. I have experience in Linux, AWS, Azure, GCP, Oracle Cloud, Docker, CloudStack, vCenter, XEN, Gitlab, and CI/CD pipelines. I am skilled in Infrastructure as Code (IaC) with expertise in Terraform and Ansible for provisioning, scaling, and managing infrastructure.
 
-I am also a highly creative and multi-talented Graphic Designer and Web Developer with vast experience in multimedia, marketing, and print design.
+In addition, I have experience in monitoring tools like checkMK, PRTG, Graphana, Prometheus, and ELK for logs. I am well-versed in web servers such as Apache Tomcat and Nginx. I have experience in configuring Radius servers. I am also proficient in Python and bash scripting for automating day-to-day tasks. 
   
 </details>
 <br>
@@ -86,7 +86,7 @@ I am also a highly creative and multi-talented Graphic Designer and Web Develope
 - [Global AI Hackathon – Finalist – Team: Prediction Ctrl](https://mustafaimam.live/globalaihackathon-team-prediction-ctrl/)
 - [Artificial intelligence VS Machine learning](https://mustafaimam.live/artificial-intelligence-vs-machine-learning-ai-vs-ml/)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://mustafaimam.live/seyd-mustafa-imam-blog/)
+➡️ [more blog posts...](https://syedmustafaimam.com/blog/)
 
 <br>
 <hr>
