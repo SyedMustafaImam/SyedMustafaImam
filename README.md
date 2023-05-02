@@ -81,6 +81,7 @@ In addition, I have experience in monitoring tools like checkMK, PRTG, Graphana,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap to DevOps Engineer](https://syedmustafaimam.com/roadmap-to-devops-engineer/)
 - [Gen4Gen Webapplication](https://syedmustafaimam.com/gen4gen/)
 - [Online Erfa](https://syedmustafaimam.com/onlineerfa/)
 - [Smart Covid](https://syedmustafaimam.com/smart-covid/)
