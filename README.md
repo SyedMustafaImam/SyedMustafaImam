@@ -4,10 +4,10 @@
 
 ### Want to know About Me?!
 
-- 🔭 I just launched my portfolio: [Computer Scientist, Researcher and Designer][website]!
+- 🔭 I just launched my portfolio: [Computer Scientist, Researcher and DevOps Enginner][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other reaserchers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and design  
 <br>
 <hr>
