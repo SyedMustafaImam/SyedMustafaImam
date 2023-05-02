@@ -13,15 +13,15 @@
 <hr>
 <br>
 
-<details>
-   <summary>🤓 About Me</summary>
+
+## 🤓 About Me
 As an aspiring DevOps Engineer with a Bachelor's degree in Computer Science and a strong academic record (3.89 CGPA - 🥈 silver medalist from SZABIST Karachi, Pakistan). I have a strong history of participation in various competitions and hackathons, I have also achieved 4th position in the #GlobalAI Hackathon by Hackmakers, among 75+ countries around the world. I was also awarded as the best innovator among the 13 countries in a competition organized by ASME, for an application for Microsoft hololens.
 
 I have a solid background in DevOps and cloud and on-premises infrastructure management. I have experience in Linux, AWS, Azure, GCP, Oracle Cloud, Docker, CloudStack, vCenter, XEN, Gitlab, and CI/CD pipelines. I am skilled in Infrastructure as Code (IaC) with expertise in Terraform and Ansible for provisioning, scaling, and managing infrastructure.
 
 In addition, I have experience in monitoring tools like checkMK, PRTG, Graphana, Prometheus, and ELK for logs. I am well-versed in web servers such as Apache Tomcat and Nginx. I have experience in configuring Radius servers. I am also proficient in Python and bash scripting for automating day-to-day tasks. 
   
-</details>
+
 <br>
 <hr>
 <br>
