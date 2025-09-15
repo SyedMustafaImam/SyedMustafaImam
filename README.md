@@ -88,7 +88,7 @@ In addition, I have experience in monitoring tools like checkMK, PRTG, Graphana,
   <img src="https://github-readme-stats.vercel.app/api?username=SyedMustafaImam&show_icons=true&count_private=true" alt="Mustafa's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMustafaImam" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SyedMustafaImam" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMustafaImam&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
