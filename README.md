@@ -71,11 +71,11 @@ In addition, I have experience in monitoring tools like checkMK, PRTG, Graphana,
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [HTML/CSS Lecture 3 Recording &lpar;URDU/HINDI&rpar;](https://www.youtube.com/watch?v=y9yRXp2IENk)
+- [HTML/CSS Lecture 2 Recording &lpar;URDU/HINDI&rpar;](https://www.youtube.com/watch?v=Sttenpo2-O8)
+- [HTML Lecture 1 Recording Beginner to Intermediate &lpar;URDU/HINDI&rpar;](https://www.youtube.com/watch?v=Alg5ZnZgqiw)
 - [Covid Vaccine Registration &amp; Smart Management Application | MERN Stack](https://www.youtube.com/watch?v=LTwiPRA_Lhw)
-- [Mental AID By team Data-Doctors | UN World Innovation Day Hackathon | 2021](https://www.youtube.com/watch?v=eYY0gbfMSME)
-- [Prediction Ctrl | Global online AI Hackathon | BuildwithAI: Emergence 2020](https://www.youtube.com/watch?v=RwUVMNVht2g)
-- [Applications Of HoloLens In Mixed Reality | Microsoft HoloLens](https://www.youtube.com/watch?v=3N7eHTL5erc)
-- [UV Cleaning | Red Bull Basement University 2019  | Team-Sagluca](https://www.youtube.com/watch?v=gImuoAD_Ja4)
+- [Project Demo Scala | MERN APP | Cinema Booking System | 2021](https://www.youtube.com/watch?v=9uYE8iMug7g)
 <!-- YOUTUBE:END -->
 
 <br>
