@@ -10,8 +10,8 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@db6497e3ae83b3e837e6ed98c20da4f7e8b494f8
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://syedmustafaimam.com/blog/feed/"
           max_post_count: 5
